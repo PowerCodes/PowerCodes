@@ -7,4 +7,4 @@
 - In our server we provide a lot of things that can be useful for programmers and developers
 ! Such as technical support for some programming languages, discussions, member projects, lessons and member assistance, challenges and more.**
 
-- (Join Server)[https://discord.gg/p-c]
+- [Join Server](https://discord.gg/p-c)
