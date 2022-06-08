@@ -6,5 +6,6 @@
 - Server aims to educate people about technology/programming, 24/7 tech support, developers, Develop your skills now!
 - In our server we provide a lot of things that can be useful for programmers and developers
 ! Such as technical support for some programming languages, discussions, member projects, lessons and member assistance, challenges and more.**
-- ![PowerCodes](https://github.com/PowerCodes/PowerCodes/blob/main/banner2.png)
 - [Join Server](https://discord.gg/p-c)
+![PowerCodes](https://github.com/PowerCodes/PowerCodes/blob/main/banner2.png)
+
